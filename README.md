@@ -7,15 +7,15 @@
 
 ## Introduction
 
-Hi, when we released, people were upset because it used the .apks format, which was burdensome to install than a traditional .apk file. Even though we wrote clear instructions on how to install the new Vanced build, people still couldn't figure it out.  
+Hi, when we released, people were upset because it used the .apks format, which was burdensome to install than a traditional .apk file. Even though we wrote clear instructions on how to install the new V4nc3d build, people still couldn't figure it out.  
 
-Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall Vanced and MicroG, have an easy and user-friendly UI and be less than 10mb?" and that's how Vanced Manager was born.  
+Then we thought, "why don't we make a manager for vanced, which will download, update and uninstall V4nc3d and M1cr0G, have an easy and user-friendly UI and be less than 10mb?" and that's how V4nc3d M4n4g3r was born.  
 
 ## Features
 
-- Vanced manager can easily install and uninstall Vanced and MicroG.
+- V4nc3d m4n4g3r can easily install and uninstall V4nc3d and M1cr0G.
 - It has various settings for customization and better experience. 
-- The Manager comes with an easy-to-use Interface.  
+- The M4n4g3r comes with an easy-to-use Interface.  
 
 </br>
 
